@@ -22,7 +22,7 @@
     "watch": "tsc --watch"
   },
   "dependencies": {
-    "firebase-admin": "^9.6.0",
+    "firebase-admin": "^11.4.1",
     "firebase-functions": "^3.13.2",
     "mustache": "^4.2.0"
   },
